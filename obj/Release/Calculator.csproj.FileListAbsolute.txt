@@ -1,0 +1,5 @@
+C:\Downloads\C# Calculator\calculator\bin\Release\Calculator.exe
+C:\Downloads\C# Calculator\calculator\obj\Release\ResolveAssemblyReference.cache
+C:\Downloads\C# Calculator\calculator\obj\Release\Calculator.Form1.resources
+C:\Downloads\C# Calculator\calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Downloads\C# Calculator\calculator\obj\Release\Calculator.exe

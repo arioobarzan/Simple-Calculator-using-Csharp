@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calculator">
+</Property><Property Name="Solution File" Value="C:\Downloads\C# Calculator\calculator\Calculator.sln">
+</Property><Property Name="User Options File" Value="C:\Downloads\C# Calculator\calculator\Calculator.suo">
+</Property><Property Name="Date" Value="Tuesday, July 13, 2010">
+</Property><Property Name="Time" Value="15:39 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Calculator.sln" Description="File successfully backed up as C:\Downloads\C# Calculator\calculator\Backup\Calculator.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Calculator.suo" Description="File successfully backed up as C:\Downloads\C# Calculator\calculator\Backup\Calculator.suo">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator.csproj" Description="Project file successfully backed up as C:\Downloads\C# Calculator\calculator\Backup\Calculator.csproj">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator.csproj.user" Description="Project user file successfully backed up as C:\Downloads\C# Calculator\calculator\Backup\Calculator.csproj.user">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Downloads\C# Calculator\calculator\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Form1.cs" Description="File successfully backed up as C:\Downloads\C# Calculator\calculator\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="App.ico" Description="File successfully backed up as C:\Downloads\C# Calculator\calculator\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Form1.resx" Description="File successfully backed up as C:\Downloads\C# Calculator\calculator\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Calculator" Source="Calculator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calculator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Calculator.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calculator" Source="Calculator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
